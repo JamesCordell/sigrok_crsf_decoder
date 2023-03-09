@@ -10,3 +10,5 @@ To install and use this decoder put the ./crsf/ directory in
 ` /usr/share/libsigrokdecode/decoders/`
 
 or where ever your operating system keeps its sigrock decoders. 
+
+![screen shot](/sikrok_crsf_screenshot.png)
